@@ -3,7 +3,7 @@
 
 AWS Educate Labs
 
-[Cloud Computing 101 Certification](https://www.credly.com/badges/024104b0-c641-4186-a7c2-fccb97fc8bbf/public_url)
+[Getting Started with Storage Certification](https://www.credly.com/badges/60befe38-987a-4916-b293-422ab1abe9eb/public_url)
 
 
 ## Authors
