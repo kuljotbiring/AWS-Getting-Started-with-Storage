@@ -25,3 +25,6 @@ I'm a Computer Science student at Oregon State University
 * Secured a bucket by using a bucket policy.
 * Updated the website.
 * Viewed object versions in the Amazon S3 console.
+
+
+![aws-educate-getting-started-with-storage](https://github.com/kuljotbiring/AWS-Getting-Started-with-Storage/assets/34665034/dcfc9cd6-35fc-4e75-a04a-6f72f8403b2c)
