@@ -1,6 +1,12 @@
 
 # ☁️ Getting Started with Amazon Simple Storage Service (Amazon S3)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+</p>
+
 AWS Educate Labs
 
 [Getting Started with Storage Certification](https://www.credly.com/badges/60befe38-987a-4916-b293-422ab1abe9eb/public_url)
